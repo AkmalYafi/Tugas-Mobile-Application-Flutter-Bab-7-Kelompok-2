@@ -1,0 +1,118 @@
+
+{
+    "buku": [
+        {
+            "id": "rec1",
+            "dishImage": "assets/book_pics/mag1.png",
+            "title": "Buku Anak A",
+            "duration": "30 mins",
+            "source": "https://pixabay.com/photos/salmon-dish-food-meal-fish-518032/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Meditarrian",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec2",
+            "dishImage": "assets/book_pics/mag2.png",
+            "title": "Buku Anak B",
+            "duration": "1 hour",
+            "source": "https://pixabay.com/photos/cupcakes-dessert-frosting-food-690040/",
+            "information": [
+                "Course: Dessert",
+                "Price: Somewhat cheap",
+                "Cuisine: American",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec3",
+            "dishImage": "assets/book_pics/mag3.png",
+            "title": "Buku Anak C",
+            "duration": "30 mins",
+            "source": "https://pixabay.com/photos/pancakes-maple-syrup-sweet-food-2291908/",
+            "information": [
+                "Course: Breakfast",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec4",
+            "dishImage": "assets/book_pics/mag1.png",
+            "title": "Buku Anak D",
+            "duration": "50 mins",
+            "source": "https://pixabay.com/photos/spaghetti-drunken-line-food-pasta-960978/",
+            "information": [
+                "Course: Main Course",
+                "Price: Expensive",
+                "Cuisine: Italian",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec5",
+            "dishImage": "assets/book_pics/mag2.png",
+            "title": "Buku Anak E",
+            "duration": "35 mins",
+            "source": "https://pixabay.com/photos/fried-rice-thai-food-thai-cuisine-3023040/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Thai",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+            
+        },
+        {
+            "id": "rec6",
+            "dishImage": "assets/book_pics/mag3.png",
+            "title": "Buku Anak F",
+            "duration": "1 hour",
+            "source": "https://pixabay.com/photos/green-curry-thai-food-3604721/",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec7",
+            "dishImage": "assets/book_pics/mag1.png",
+            "title": "Buku Anak G",
+            "duration": "1 hour",
+            "source": "https://pixabay.com/photos/soup-pho-soup-vietnam-vietnamese-5250765/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Vietnamese",
+                "Skill Level: Hard",
+                "Prep Time 20 minutes"
+            ]
+        },
+        {
+            "id": "rec8",
+            "dishImage": "assets/book_pics/mag2.png",
+            "title": "Buku Anak H",
+            "duration": "30 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        }
+    ]
+}
